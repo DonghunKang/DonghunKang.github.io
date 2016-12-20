@@ -1,9 +1,11 @@
 ---
-published: false
+layout: post
+title: Testing Code Blocks
+author: "KDH"
 ---
 ## Testing Code Blocks
 
-#코드블럭 테스팅
+###코드블럭 테스팅
 
 
 ```ruby
